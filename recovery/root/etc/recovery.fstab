@@ -1,4 +1,5 @@
 # 1 "vendor/mediatek/proprietary/hardware/fstab/mt6765/fstab.in.mt6765"
+# 1 "<built-in>" 1
 # 1 "<built-in>" 3
 # 341 "<built-in>" 3
 # 1 "<command line>" 1
@@ -89,3 +90,4 @@ product /product ext4 ro wait,avb,logical,first_stage_mount,slotselect
 /dev/block/by-name/dtbo /dtbo emmc defaults defaults
 
 /dev/block/by-name/vbmeta /vbmeta emmc defaults defaults
+
